@@ -1,0 +1,40 @@
+<svg viewBox="0 0 400 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6a89ff"/>
+      <stop offset="100%" stop-color="#4CAF50"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="400" height="200" rx="16" fill="url(#bg)"/>
+
+  <!-- Head/brain circle -->
+  <circle cx="90" cy="100" r="55" fill="#fff" opacity="0.15"/>
+  <circle cx="90" cy="100" r="42" fill="#fff"/>
+  <path d="M70 90 Q75 75 90 78 Q105 75 110 90 Q112 105 100 112 Q95 118 90 118 Q85 118 80 112 Q68 105 70 90 Z" fill="#6a89ff"/>
+  <circle cx="80" cy="92" r="3" fill="#fff"/>
+  <circle cx="100" cy="92" r="3" fill="#fff"/>
+
+  <!-- Lightbulb -->
+  <g transform="translate(170,55)">
+    <circle cx="20" cy="20" r="20" fill="#FFD93D"/>
+    <rect x="12" y="38" width="16" height="10" rx="2" fill="#e6c235"/>
+    <line x1="20" y1="0" x2="20" y2="-8" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <line x1="0" y1="20" x2="-8" y2="20" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <line x1="5" y1="5" x2="-2" y2="-2" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Question mark bubble -->
+  <g transform="translate(250,60)">
+    <circle cx="20" cy="20" r="22" fill="#fff"/>
+    <text x="20" y="30" font-size="26" font-weight="bold" text-anchor="middle" fill="#e74c3c" font-family="Arial, sans-serif">?</text>
+  </g>
+
+  <!-- Checkmark bubble -->
+  <g transform="translate(310,110)">
+    <circle cx="20" cy="20" r="22" fill="#fff"/>
+    <text x="20" y="29" font-size="24" font-weight="bold" text-anchor="middle" fill="#4CAF50" font-family="Arial, sans-serif">✓</text>
+  </g>
+
+  <text x="200" y="180" font-size="22" font-weight="bold" text-anchor="middle" fill="#fff" font-family="Arial, sans-serif">Quiz Time</text>
+</svg>
