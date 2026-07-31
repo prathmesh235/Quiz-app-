@@ -27,7 +27,7 @@ An interactive and responsive Quiz Application. This project allows users to ans
 
 - GitHub: https://github.com/prathmesh235
 
-  ## ⭐ Support
+## ⭐ Support
 
 If you like this project, please give it a **⭐ Star** on GitHub.
 
