@@ -4,7 +4,7 @@ An interactive and responsive Quiz Application. This project allows users to ans
 
 ## 🚀 Live Demo
 
-👉 https://prathmesh235.github.io/Quiz-app-/
+👉 https://benevolent-blini-7206cf.netlify.app/
 
 📸 Preview
 <img width="1890" height="862" alt="Screenshot 2026-07-31 185717" src="https://github.com/user-attachments/assets/56c56af8-ba62-482b-a984-396978904867" />
